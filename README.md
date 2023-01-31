@@ -44,13 +44,13 @@
  <h1> 💾 Some of my Projects ◎ </h1>
  
  
-  <a href="https://andrustan.netlify.app/" target="_blank" rel="noopener noreferrer" > Current Portfolio ⚛️ </a> 
+ <a href="https://andrustan.netlify.app/" target="_blank" rel="noopener noreferrer"> Current Portfolio ⚛️ </a> 
 
+ <a href="https://css-nes-notes-markdown.vercel.app/" target="_blank" rel="noopener noreferrer"> Typescript Nes Notes App 📝 </a>
 
-<a href="https://css-nes-notes-markdown.vercel.app/" target="_blank" rel="noopener noreferrer" > Typescript Nes Notes App 📝 </a>
-
-
- <a href="https://budget23.netlify.app/" target="_blank" rel="noopener noreferrer" > Budget Planner </a>
+ <a href="https://budget23.netlify.app/" target="_blank" rel="noopener noreferrer"> Budget Planner </a>
+ 
+ <a href="https://listoda.netlify.app/" target="_blank" rel="noopener noreferrer"> Listoda App </a>
 
 </div>
 
@@ -59,7 +59,7 @@
 
 
 
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=arzendevf&repo=github-visitors-badge&countColor=%237B1E7A)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farzendev&label=Thank%20you%20for%20your%20visit%20!%20You%20are%20the%20number&labelColor=%23697689&countColor=%2337d67a&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farzendev)
 
 
 </div>
