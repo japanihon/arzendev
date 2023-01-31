@@ -59,7 +59,7 @@
 
 
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=devandres22&color=55acb7&style=for-the-badge&logo=Github)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
 </div>
