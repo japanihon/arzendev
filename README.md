@@ -60,6 +60,7 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farzendev&label=Thank%20you%20for%20your%20visit%20!%20You%20are%20the%20visitor%20number&labelColor=%23697689&countColor=%2337d67a&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farzendev)
 
+ [![twitter](https://img.shields.io/twitter/follow/andrustn?style=social)](https://twitter.com/andrustn)
 
 </div>
 
