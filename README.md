@@ -2,7 +2,7 @@
 
 <div align="center" >
 
- <h1 align="center"> Hi there I am Andres Rustan -> Software Developer 👋 </h1>
+ <h1 align="center"> Hi there I am Andres -> Software Developer 👋 </h1>
 
  <p>  📇 I’m currently working in diverse software projects ⚛⚛️ </p>
  
