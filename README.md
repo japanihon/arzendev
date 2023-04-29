@@ -21,7 +21,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/andrustn)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arzendev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrustn/)
-[![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://andrustan.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://andrescript.com/)
 
 </div>
 
