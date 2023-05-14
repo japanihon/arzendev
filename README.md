@@ -81,6 +81,7 @@
  <h3> Documentation </h3>
  
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ 	<span><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></span>
  
  <h3> Learning </h3>
  
