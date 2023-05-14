@@ -31,29 +31,32 @@
 <h2 align="center">Toolbox</h2>
  
 
-<h3>Languages</h3>
+<h3> TECH STACK </h3>
 <span><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> </span>
 <span><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></span>
 
 
-<h3>Frameworks</h3>
+<h3> FRAMEWORKS </h3>
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/tailwindcss%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></span>
 
 
-<h3>Software Tools</h3>
+<h3> CONTROL VERSION + DEPLOY </h3>
 <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Deploy%20to%20Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white"/></span>
  
- <h3>Design Tools</h3>
+ <h3> DESIGN </h3>
  
-
 <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></span>
+ 
+ <h3> TEST </h3>
+ 
+ 
 
 </div>
 
